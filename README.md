@@ -1,3 +1,4 @@
+以下所有的例子都是《Android开发艺术探索》的例子。
 1, IPCDemo
 
 2, ViewDemo<br>
